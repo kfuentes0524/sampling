@@ -29,7 +29,9 @@ Although it is challenging to make a direct comparison due to the lack of comple
 With each execution of the script, the output graph changes, showing variability in both the "Infections from Weddings" and "Traced to Weddings" distributions. These differences are reflected in the frequency and proportion of cases for each variable, indicating that the results are not fully reproducible. This lack of consistency suggests that randomness in the simulation affects the outcomes, leading to fluctuations in the proportions observed with each run.
 
 4. ALTER THE CODE:
-This is the change np.random.seed(42). After implementing the fixed seed, the graph produced by the script remains consistent across multiple executions. The distributions of "Infections from Weddings" and "Traced to Weddings" no longer shift with each run, making it possible to compare and analyze the output reliably.
+This is the change np.random.seed(42). After implementing the fixed seed, the graph produced by the script remains consistent across multiple executions. The distributions of "Infections from Weddings" and "Traced to Weddings" no longer shift with each run, making it possible to compare and analyze the output reliably.his is especially important for simulations, as it allows for consistent interpretation and comparison of results.
+
+Thanks.
 ```
 
 
