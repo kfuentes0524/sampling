@@ -16,32 +16,83 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: # 2
 
 Describe the purpose of your survey:
 ```
 write your answer here...
-```
+```The purpose of this survey is to measure voter priorities, perceptions and opinions on our party's platform, and our leader to align our messaging with the most valued issues. By understanding voter concerns, we aim to maintain high approval ratings and secure their support as we approach the federal election.
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
-```
+```Target Population: Canadian eligible voters.
+Sampling Frame: A database of Canadian eligible voters from diverse provinces, age groups, genders, and socioeconomic backgrounds.
+Sampling Units: Individual eligible voters within the Canadian population.
+Sampling Strategy: A stratified random sampling approach will ensure representation from key demographics and regions.
+
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
-
+1.	Which issues are most important to you in this federal election? (Select all that apply)
+    Economy and jobs
+    Healthcare
+    Climate change and environment
+    Education
+    Public safety
+    Immigration
+    Other: ___________
+2.	How satisfied are you with our party’s stance on the following issues?
+(Use a scale from 1 to 5, where 1 = Very dissatisfied, 5 = Very satisfied)
+    Economy and jobs
+    Healthcare
+    Climate change
+    Education
+    Public safety
+3.	Which of the following best describes your view of our party's leader?
+    Strong and capable
+    Compassionate and understanding
+    Out of touch with voter needs
+    Unreliable
+    Other: ___________
+4.	What qualities do you value most in a national leader? (Select up to three)
+    Integrity
+    Intelligence
+    Empathy
+    Decisiveness
+    Experience
+    Vision for the future
+5.	How likely are you to vote for our party in the upcoming federal election?
+    Very likely
+    Somewhat likely
+    Neutral
+    Somewhat unlikely
+    Very unlikely
+6.	What could our party do to increase your likelihood of supporting us?
+    Emphasize economic stability and job growth
+    Prioritize healthcare improvements
+    Address climate change more aggressively
+    Improve national security and public safety policies
+    Show transparency in leadership and decision-making
+    Other: ___________
+7.	Do you feel that our party understands and addresses the needs of average Canadians?
+    Yes, very much
+    Yes, somewhat
+    Neutral
+    No, not very much
+    No, not at all
+8.	Which of the following best describes your primary source of information on political issues?
+    Social media
+    News websites
+    Television
+    Friends and family
+    Newspapers
+    Other: ___________
+9.	In your opinion, what is the biggest weakness of our party's platform?
+(Open-ended)
+10.	Is there any specific topic or issue you feel our party has not adequately addressed?
+(Open-ended)
+ 
 ## Rubric
 
 -	All required components are present and complete **Complete / Incomplete**
