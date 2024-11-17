@@ -10,7 +10,7 @@ The quality of the sample largely depends on the stratified random sampling appr
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-Yes, some changes should be made to the survey to improve its quality, address potential biases, and ensure ethical practices in data collection.
+Yes,some changes should be made to the survey to improve its quality, address potential biases, and ensure ethical practices in data collection.
 
 Question 1 (on issues that matter most to voters): This question may benefit from a more specific follow-up question asking for the relative importance of the listed issues (e.g., ranking or assigning a score from 1-5), rather than just asking respondents to check all that apply. This will give more detailed insight into voter priorities.
    
