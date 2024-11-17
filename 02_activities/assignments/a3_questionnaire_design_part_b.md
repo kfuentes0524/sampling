@@ -4,19 +4,49 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+The quality of the sample largely depends on the stratified random sampling approach used to ensure representation from key demographics and regions across Canada. Given that the target population is Canadian eligible voters, this method should help achieve a sample that is diverse in terms of geography, age, gender, and socioeconomic status, thus making it more likely to be representative of the broader population.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
-    ```
+Yes, some changes should be made to the survey to improve its quality, address potential biases, and ensure ethical practices in data collection.
 
+Question 1 (on issues that matter most to voters): This question may benefit from a more specific follow-up question asking for the relative importance of the listed issues (e.g., ranking or assigning a score from 1-5), rather than just asking respondents to check all that apply. This will give more detailed insight into voter priorities.
+   
+Revised Question 1:
+Which of the following issues are most important to you in this federal election? Please rank them in order of importance (5 = most important, 1 = least important)
+Economy and jobs
+Healthcare
+Climate change and environment
+Education
+Public safety
+Immigration
+Other: ___________
+
+Question 4 (qualities valued in a national leader): Instead of allowing respondents to select up to three qualities, it might be more effective to ask them to rank the top three most important qualities. This would give a clearer understanding of voter priorities and reduce the likelihood of having an excessive number of equally important attributes.
+
+Revised Question 4:
+What qualities do you value most in a national leader? Please rank your top 3 choices (5 = most important, 1 = least important)
+
+Integrity
+Intelligence
+Empathy
+Decisiveness
+Experience
+Vision for the future
+
+Additional Ethical Consideration: Add an informed consent statement at the beginning of the survey to ensure that respondents are aware of how their data will be used and that participation is voluntary.
+
+Suggested Addition:
+Informed Consent Statement:
+"By participating in this survey, you consent to the use of your responses for research purposes related to our political campaign. Your participation is voluntary, and all responses will remain confidential. You may skip any question you prefer not to answer."
+
+    ```
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+No, the purpose of this survey could not have been fully achieved through an observational study. An observational study would allow researchers to observe and record voter behavior, but it would not directly capture voters’ opinions, preferences, and perceptions as a survey does. Surveys allow for direct responses to specific questions, making it possible to understand why voters support or oppose particular issues or leaders and how they prioritize different topics.
     ```
 
 ## Why am I doing this assignment?
