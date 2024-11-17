@@ -22,7 +22,7 @@ Climate change and environment
 Education
 Public safety
 Immigration
-Other: ___________
+Other: ___________.
 
 Question 4 (qualities valued in a national leader): Instead of allowing respondents to select up to three qualities, it might be more effective to ask them to rank the top three most important qualities. This would give a clearer understanding of voter priorities and reduce the likelihood of having an excessive number of equally important attributes.
 
