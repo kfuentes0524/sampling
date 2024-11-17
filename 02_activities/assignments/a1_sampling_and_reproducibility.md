@@ -25,7 +25,7 @@ The initial infection stage uses a uniform distribution to randomly select a sub
 2. RUN THE PYTHON SCRIPT:
 Although it is challenging to make a direct comparison due to the lack of complete labels for the variables, X-axis, and Y-axis, we can observe that both graphs appear to approximate a normal distribution centered around 20%, with some variations around this value. Both distributions suggest that the majority of cases attributed to weddings cluster around this 20% mark, with some deviations on either side. Despite the differences in data presentation, the overall pattern seems consistent, indicating that weddings account for a similar central proportion in both models.
 
-3. MODIFING NUMBER OF REPETITION (1000):
+3. MODIFING NUMBER OF REPETITION (1000) AND RUN MULTIPLE TIME:
 With each execution of the script, the output graph changes, showing variability in both the "Infections from Weddings" and "Traced to Weddings" distributions. These differences are reflected in the frequency and proportion of cases for each variable, indicating that the results are not fully reproducible. This lack of consistency suggests that randomness in the simulation affects the outcomes, leading to fluctuations in the proportions observed with each run.
 
 4. ALTER THE CODE:
