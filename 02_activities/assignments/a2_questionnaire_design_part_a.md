@@ -30,6 +30,7 @@ write your answer here...
 Sampling Frame: A database of Canadian eligible voters from diverse provinces, age groups, genders, and socioeconomic backgrounds.
 Sampling Units: Individual eligible voters within the Canadian population.
 Sampling Strategy: A stratified random sampling approach will ensure representation from key demographics and regions.
+Observational units: Individual voter responses to surveys.
 
 
 Your 5-10 question survey:
@@ -117,3 +118,4 @@ Checklist:
 - [ ] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack at `#cohort-3-help`. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
+
